@@ -37,20 +37,3 @@ local-first tools / media workflow / practical packaging
 | [kobutachan-ffxiv-research](https://github.com/Idios/kobutachan-ffxiv-research) | 説明を準備中 | 2026-08-30 |
 | [claudecode-discord-presence](https://github.com/Idios/claudecode-discord-presence) | 説明を準備中 | 2026-07-20 |
 <!-- ACTIVITY:END -->
-
-## 代表的なリポジトリ
-
-### [kobutachan-allaganeye](https://github.com/Idios/kobutachan-allaganeye)
-
-FF14のPvP動画の録画をワンストップで試合単位の動画ファイルに分割する。
-
-### [claudecode-discord-presence](https://github.com/Idios/claudecode-discord-presence)
-
-Discordのプレイ中アプリに"🦀Claude Code🦀"を表示する。
-
-## よく使う技術・関心領域
-
-- Python / Java
-- Windows / Linux
-- FFmpeg
-- GitHub Actions
