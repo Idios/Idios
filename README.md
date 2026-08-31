@@ -1,8 +1,7 @@
 # Idios
 
-東京を拠点に、画像・動画・日常のメディア作業を扱うローカルファーストな実用ツールを作っています。
-
-手元のPCで完結して、実際に使い続けられる形に落とし込むことを重視しています。画像の整理・検索、ローカルAIの活用、動画解析、Windows向けGUI/CLI、配布しやすいパッケージングに関心があります。
+日常的に発生するデータ処理を片付けるツール・ソフトウェアを作っている。
+配布しやすくすぐ使えるパッケージングを心がけている。
 
 ## 作っているもの
 
@@ -13,31 +12,18 @@
 
 ## 代表的なリポジトリ
 
-### [kobato-eyes](https://github.com/Idios/kobato-eyes)
-
-ローカル画像コレクションを扱うためのデスクトップアプリです。画像へのタグ付け、類似画像の探索、検索体験の改善など、増え続けるメディアを手元で管理しやすくすることを目指しています。
-
 ### [kobutachan-allaganeye](https://github.com/Idios/kobutachan-allaganeye)
 
-動画解析や補助ツールを、開発環境なしでも使えるWindowsアプリとして届けることを意識したプロジェクトです。Pythonやffmpegなどの依存関係を利用者に意識させず、実行可能な形にまとめる設計を重視しています。
+FF14のPvP動画の録画をワンストップで試合単位の動画ファイルに分割する。
 
-## 開発で重視していること
+### [claudecode-discord-presence](https://github.com/Idios/claudecode-discord-presence)
 
-- ローカルで完結する構成を優先する
-- 外部依存やモデル利用の前提を明確にする
-- GUIとCLIの両方から使える形を検討する
-- 非開発者向けのREADMEと導入手順を整える
-- ライセンス、配布物、GitHubのリリース導線まで含めて考える
+Discordのプレイ中アプリに"🦀Claude Code🦀"を表示する。
 
 ## よく使う技術・関心領域
 
-![パイソン](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-
-## リンク
-
-- GitHub: [github.com/Idios](https://github.com/Idios)
-- X: [x.com/Idios](https://x.com/Idios)
