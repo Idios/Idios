@@ -1,0 +1,26 @@
+<svg width="860" height="230" viewBox="0 0 860 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Idios activity summary</title>
+  <desc id="desc">GitHub activity summary generated from public repositories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="860" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101828"/>
+      <stop offset="0.55" stop-color="#123D5A"/>
+      <stop offset="1" stop-color="#22543D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="40" y1="176" x2="820" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="0.5" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="230" rx="18" fill="url(#bg)"/>
+  <path d="M48 176 C168 120 238 202 356 150 S548 128 646 88 S760 82 812 48" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="646" cy="88" r="7" fill="#A7F3D0"/>
+  <circle cx="812" cy="48" r="7" fill="#FDE68A"/>
+  <text x="40" y="58" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Idios</text>
+  <text x="40" y="91" fill="#D1E9FF" font-family="Segoe UI, Arial, sans-serif" font-size="16">local-first tools / media workflow / practical packaging</text>
+  <text x="40" y="138" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">repos: 3</text>
+  <text x="185" y="138" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Python</text>
+  <text x="40" y="204" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">latest: kobutachan-allaganeye / 2026-08-31</text>
+  <text x="620" y="204" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="13">updated: 2026-08-31 06:33 UTC</text>
+</svg>

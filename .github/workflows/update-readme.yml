@@ -1,0 +1,33 @@
+name: Update profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 20 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update dynamic section
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update dynamic profile activity
+          file_pattern: README.md assets/activity.svg
