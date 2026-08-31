@@ -29,11 +29,11 @@ local-first tools / media workflow / practical packaging
 <!-- ACTIVITY:START -->
 - 公開中の表示対象リポジトリ: **3**
 - 主な言語: **Python**
-- 最終更新: 2026-08-31 06:33 UTC
+- 最終更新: 2026-08-31 23:49 UTC
 
 | リポジトリ | 内容 | 最終更新 |
 | --- | --- | --- |
+| [claudecode-discord-presence](https://github.com/Idios/claudecode-discord-presence) | Show your Claude Code session as Discord Rich Presence status. | 2026-08-31 |
+| [kobutachan-ffxiv-research](https://github.com/Idios/kobutachan-ffxiv-research) | FFXIVに関する各種調査レポートおよびその調査スキル・ツール | 2026-08-31 |
 | [kobutachan-allaganeye](https://github.com/Idios/kobutachan-allaganeye) | FF14 フロントラインの長時間録画動画を、試合ごとに自動分割するツール。 | 2026-08-31 |
-| [kobutachan-ffxiv-research](https://github.com/Idios/kobutachan-ffxiv-research) | 説明を準備中 | 2026-08-30 |
-| [claudecode-discord-presence](https://github.com/Idios/claudecode-discord-presence) | 説明を準備中 | 2026-07-20 |
 <!-- ACTIVITY:END -->
