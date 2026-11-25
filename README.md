@@ -29,7 +29,7 @@ local-first tools / media workflow / practical packaging
 <!-- ACTIVITY:START -->
 - 公開中の表示対象リポジトリ: **3**
 - 主な言語: **Python、HTML**
-- 最終更新: 2026-11-24 04:44 UTC
+- 最終更新: 2026-11-25 03:31 UTC
 
 | リポジトリ | 内容 | 最終更新 |
 | --- | --- | --- |
